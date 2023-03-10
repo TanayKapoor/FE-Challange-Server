@@ -33,5 +33,7 @@ VALUES
         NULL
     );
 
+SELECT * FROM TaskTable;
 
-    SELECT * FROM TaskTable;
+
+DELETE FROM TaskTable;
